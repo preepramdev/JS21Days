@@ -2,8 +2,8 @@
 
 ![Demo](https://user-images.githubusercontent.com/4281887/76953311-19829380-6941-11ea-99d4-088be398ab61.gif)
 
-1. [Falling Snow ](https://js21days.netlify.app/01%20-%20falling%20snow/)
-1. Countdown Timer
+1. [Falling Snow ](https://js21days.netlify.app/01%20-%20falling%20snow/) 
+1. [Countdown Timer ](https://js21days.netlify.app/02%20-%20countdown%20timer/)
 1. Async Await
 1. Eye Rolling
 1. Watercolor Painting
