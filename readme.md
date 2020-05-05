@@ -6,7 +6,7 @@
 1. [Countdown Timer ](https://js21days.netlify.app/02%20-%20countdown%20timer/)
 1. [Async Await ](https://js21days.netlify.app/03%20-%20async%20await/)
 1. [Eye Rolling ](https://js21days.netlify.app/04%20-%20eye%20rolling/)
-1. Watercolor Painting
+1. [Watercolor Painting ](https://js21days.netlify.app/05%20-%20watercolor%20painting/)
 1. Duck Hunt
 1. Konami Code
 1. What is "this"?
