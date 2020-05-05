@@ -5,7 +5,7 @@
 1. [Falling Snow ](https://js21days.netlify.app/01%20-%20falling%20snow/) 
 1. [Countdown Timer ](https://js21days.netlify.app/02%20-%20countdown%20timer/)
 1. [Async Await ](https://js21days.netlify.app/03%20-%20async%20await/)
-1. Eye Rolling
+1. [Eye Rolling ](https://js21days.netlify.app/04%20-%20eye%20rolling/)
 1. Watercolor Painting
 1. Duck Hunt
 1. Konami Code
