@@ -7,7 +7,7 @@
 1. [Async Await ](https://js21days.netlify.app/03%20-%20async%20await/)
 1. [Eye Rolling ](https://js21days.netlify.app/04%20-%20eye%20rolling/)
 1. [Watercolor Painting ](https://js21days.netlify.app/05%20-%20watercolor%20painting/)
-1. Duck Hunt
+1. [Duck Hunt ](https://js21days.netlify.app/06%20-%20duck%20hunt/)
 1. Konami Code
 1. What is "this"?
 1. Parallax Scrolling
