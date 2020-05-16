@@ -8,7 +8,7 @@
 1. [Eye Rolling ](https://js21days.netlify.app/04%20-%20eye%20rolling/)
 1. [Watercolor Painting ](https://js21days.netlify.app/05%20-%20watercolor%20painting/)
 1. [Duck Hunt ](https://js21days.netlify.app/06%20-%20duck%20hunt/)
-1. Konami Code
+1. [Konami Code ](https://js21days.netlify.app/07%20-%20konami%20code/)
 1. What is "this"?
 1. Parallax Scrolling
 1. Kanban Board
