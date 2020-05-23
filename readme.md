@@ -9,7 +9,7 @@
 1. [Watercolor Painting ](https://js21days.netlify.app/05%20-%20watercolor%20painting/)
 1. [Duck Hunt ](https://js21days.netlify.app/06%20-%20duck%20hunt/)
 1. [Konami Code ](https://js21days.netlify.app/07%20-%20konami%20code/)
-1. What is "this"?
+1. [What is "this"? ](https://js21days.netlify.app/08%20-%20what%20is%20this/)
 1. Parallax Scrolling
 1. Kanban Board
 1. Text Reveal
