@@ -10,7 +10,7 @@
 1. [Duck Hunt ](https://js21days.netlify.app/06%20-%20duck%20hunt/)
 1. [Konami Code ](https://js21days.netlify.app/07%20-%20konami%20code/)
 1. [What is "this"? ](https://js21days.netlify.app/08%20-%20what%20is%20this/)
-1. Parallax Scrolling
+1. [Parallax Scrolling ](https://js21days.netlify.app/09%20-%20parallax%20scrolling/)
 1. Kanban Board
 1. Text Reveal
 1. Air Quality Visualizer
