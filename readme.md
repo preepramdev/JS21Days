@@ -12,7 +12,7 @@
 1. [What is "this"? ](https://js21days.netlify.app/08%20-%20what%20is%20this/)
 1. [Parallax Scrolling ](https://js21days.netlify.app/09%20-%20parallax%20scrolling/)
 1. [Kanban Board ](https://js21days.netlify.app/10%20-%20kanban%20board/)
-1. Text Reveal
+1. [Text Reveal ](https://js21days.netlify.app/11%20-%20text%20reveal/)
 1. Air Quality Visualizer
 1. JavaScript Weird Parts
 1. Carousel
