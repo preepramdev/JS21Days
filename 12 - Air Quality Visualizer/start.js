@@ -4,7 +4,7 @@
 
   async function getAirQuality({ city, state, country }) {
     const response = await fetch(
-      `http://api.airvisual.com/v2/city?city=${city}&state=${state}&country=${country}&key=${KEY}`
+      `https://api.airvisual.com/v2/city?city=${city}&state=${state}&country=${country}&key=${KEY}`
     );
     const { data: { current } } = await response.json();
     const { pollution, weather } = current;
